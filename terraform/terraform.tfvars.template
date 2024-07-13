@@ -1,0 +1,8 @@
+project_id = ""
+bucket_name = ""
+domain = ""
+vpc_name = ""
+ip_cidr_range = [""]
+security_policy_allow=[""]
+security_policy_deny=[""]
+security_policy_name=""
